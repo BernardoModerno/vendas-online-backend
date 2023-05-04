@@ -1,1 +1,4 @@
 ###COMANDOS
+npm i -g @nestjs/cli
+nest new vendas-backend
+nest g controller user
